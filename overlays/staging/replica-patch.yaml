@@ -3,4 +3,4 @@ kind: Deployment
 metadata:
   name: webapp
 spec:
-  replicas: 3  # Staging mirrors production-like setup
+  replicas: 5  # Staging mirrors production-like setup
